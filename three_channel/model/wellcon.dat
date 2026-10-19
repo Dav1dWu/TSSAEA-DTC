@@ -1,0 +1,22 @@
+NEXTSTEP
+1 /
+COMPDAT
+-- WELL       I   J  K1 K2  STATUS  CONNECTION DATA
+'INJ-01'      7   7   1  1  'OPEN'  2*  0.5  3*  'Z' 1* /
+'INJ-02'     19   7   1  1  'OPEN'  2*  0.5  3*  'Z' 1* /
+'INJ-03'      7  19   1  1  'OPEN'  2*  0.5  3*  'Z' 1* /
+'INJ-04'     19  19   1  1  'OPEN'  2*  0.5  3*  'Z' 1* /
+'PRO-01'      1   1   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-02'     13   1   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-03'     25   1   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-04'      1  13   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-05'     13  13   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-06'     25  13   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-07'      1  25   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-08'     13  25   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+'PRO-09'     25  25   1  1  'OPEN'  2*  0.2  3*  'Z' 1* /
+/
+
+GRUPTREE
+   'horizontal'  'FIELD' /
+/
